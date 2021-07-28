@@ -22,6 +22,4 @@ or you can use /random command to get random pokemon
         replace (YOUR API HASH ) with your api hash from telegram.
         replace (BOT TOKEN) with your bot token from botfather.
     
-### Deploy to Heroku
-press this image to deploy to heroku       
-    [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iniyanv/pokedex)
+### Fork and Deploy to Heroku

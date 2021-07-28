@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+
+# project component
+config.ini
+pokedex.session
+__pycache__/
+
+# environemnt component
+bin/
+lib/
+pyvenv.cfg
+

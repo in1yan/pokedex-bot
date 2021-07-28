@@ -1,4 +1,4 @@
-BOT_NAME = '@prtpokedex_bot'
+BOT_NAME = '@pokiedex_bot'
 
 STICKER_ID = "CAACAgIAAx0CRu5C5QACCMhgsOU_MMxETwbQwARhNAQ2tTzLNQACtgIAAjZ2IA7n32q5Z54wcR8E"
 

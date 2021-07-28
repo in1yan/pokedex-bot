@@ -30,7 +30,7 @@ see /help :
     To know how to use me...
 
 """
-   message.reply_text(
+    message.reply_text(
        start_msg,
    )
 

@@ -12,9 +12,9 @@ This bot send you pkemons through name or index number.
 just send the name of the pokemon or a index number 
 or you can use /random command to get random pokemon
 ## commands are ,
-  /start   
-  /help  
-  /random   
+  - /start   
+  - /help  
+  - /random   
 ### ✨Fork this repo and deploy✨
 ### [Config.ini](/config.ini)
     Before deploying edit the config .ini 

@@ -17,7 +17,7 @@ def start_command(client, message):
 {emoji.SPARKLES} Hello {message.from_user.mention} {emoji.SPARKLES},
 I am a pokedex bot.
 
-Send any pokemon name or index number and I will send pokemon stats to you. {emoji.SCROLL}
+Send any pokemon name or index number and I will send the info about the pokemon. {emoji.SCROLL}
 
 You can also call me inline:
 {BOT_NAME} followed by the index number.
